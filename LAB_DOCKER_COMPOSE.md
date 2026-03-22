@@ -201,7 +201,7 @@ Docker Storage Options
 ---
 
 #### Bind Mount: ทำงานอย่างไร
-![docker-architecture](images/bind-mount2.png)
+![docker-architecture](images/bind-mount-2.png)
 
 ---
 
